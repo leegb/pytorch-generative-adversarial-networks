@@ -1,6 +1,4 @@
-最近，一篇非常火的报道，使用pytorch 加 50 行核心代码模拟 GAN  对抗神经网络，自己尝试走了一遍，并对源码提出自己的理解。原文链接如下 https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.nr3akui9z 
 
-code 地址 https://github.com/devnag/pytorch-generative-adversarial-networks
 
 首先配置pytorch， 这个直接去github 上的pytorch官网按照教程去配，链接地址 https://github.com/pytorch/pytorch
 
